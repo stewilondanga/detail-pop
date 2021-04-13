@@ -170,12 +170,12 @@ details p:nth-last-child(1) {
   transition: all 0.2s linear;
 }
 
-/*
 .cal:hover {
   transform: scale(2.5);
   transition: all 0.4s linear;
 }
 
+/*
 .cal caption {
   background: #d44;
   color: #eee;
