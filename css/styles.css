@@ -145,11 +145,11 @@ details p:nth-child(odd) {
   background-color: rgba(255, 255, 255, 0.02);
 }
 
-/*details p:nth-last-child(1) {
+details p:nth-last-child(1) {
   border-bottom: 0.3vh solid #333333;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
