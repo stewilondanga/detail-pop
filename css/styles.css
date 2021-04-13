@@ -134,13 +134,14 @@ details summary:focus {
   outline: none;
 }
 
-/*details p {
+details p {
   padding: 1.5vh;
   font-size: 2.4vh;
   margin: 0;
   background-color: rgba(255, 255, 255, 0.01);
 }
-details p:nth-child(odd) {
+
+/*details p:nth-child(odd) {
   background-color: rgba(255, 255, 255, 0.02);
 }
 details p:nth-last-child(1) {
