@@ -122,14 +122,15 @@ details {
   width: 33vw;
 }
 
-/*details summary {
+details summary {
   background: linear-gradient(#333333, #1a1a1a);
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
   padding: 2.5vh;
   font-size: 2.8vh;
 }
-details summary:focus {
+
+/*details summary:focus {
   outline: none;
 }
 details p {
