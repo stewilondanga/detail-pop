@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700");
+
+html {
+  background-color: #0d0d0d;
+  user-select: none;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -108,10 +114,6 @@
   transition-delay: 0.4s;
 }
 
-html {
-  background-color: #0d0d0d;
-  user-select: none;
-}
 
 .c {
   position: absolute;
