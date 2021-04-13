@@ -106,8 +106,6 @@ html {
   transition-delay: 0.4s;
 }
 
-/*
-
 .c {
   position: absolute;
   top: 50%;
@@ -115,6 +113,7 @@ html {
   transform: translate(-50%, -50%);
 }
 
+/*
 details {
   color: white;
   cursor: pointer;
