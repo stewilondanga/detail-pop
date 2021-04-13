@@ -149,7 +149,7 @@ details p:nth-last-child(1) {
   border-bottom: 0.3vh solid #333333;
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -160,6 +160,7 @@ details p:nth-last-child(1) {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
