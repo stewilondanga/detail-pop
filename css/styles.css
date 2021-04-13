@@ -113,7 +113,6 @@ html {
   transform: translate(-50%, -50%);
 }
 
-/*
 details {
   color: white;
   cursor: pointer;
@@ -122,7 +121,8 @@ details {
   margin-bottom: 1vh;
   width: 33vw;
 }
-details summary {
+
+/*details summary {
   background: linear-gradient(#333333, #1a1a1a);
   border-top-right-radius: 3px;
   border-top-left-radius: 3px;
